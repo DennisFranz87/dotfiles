@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dtf.87@freenet.de
+	name = Dennis Franz
